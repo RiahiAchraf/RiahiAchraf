@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![road.gif](https://github.com/RiahiAchraf/RiahiAchraf/blob/main/road.gif)
+<!-- ![road.gif](https://github.com/RiahiAchraf/RiahiAchraf/blob/main/road.gif) -->
